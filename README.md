@@ -108,5 +108,7 @@ xgrid();
 <img width="743" height="707" alt="image" src="https://github.com/user-attachments/assets/f1e469f1-a3dd-421a-bccb-c94235fcafb2" />
 
 
+
+
 ## RESULT: 
 Thus design of Chebyshev Low pass and high pass IIR filter waveforms were plotted and output wasverified.
